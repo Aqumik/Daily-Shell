@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# 2021-2-28 @aqumik
 filename="/usr/local/daily-shell/2021-1-28/cjk/"
 
 filename1=$(ls /usr/local/daily-shell/2021-1-28/cjk)
