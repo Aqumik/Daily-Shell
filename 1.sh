@@ -1,4 +1,5 @@
 #!/bin/bash
+#判断是否为文件，并追加内容
 # 2021-2-28 @aqumik
 filename="/usr/local/daily-shell/2021-1-28/cjk/"
 
